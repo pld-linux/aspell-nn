@@ -1,5 +1,5 @@
 Summary:	Norwegian Nynorsk dictionary for aspell
-Summary(pl):	S≥ownik norweski (nynorsk) dla aspella
+Summary(pl.UTF-8):   S≈Çownik norweski (nynorsk) dla aspella
 Name:		aspell-nn
 Version:	0.50.1
 %define	subv	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Norwegian Nynorsk dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik norweski (nynorsk) (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik norweski (nynorsk) (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
