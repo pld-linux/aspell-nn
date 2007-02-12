@@ -1,5 +1,5 @@
 Summary:	Norwegian Nynorsk dictionary for aspell
-Summary(pl.UTF-8):   Słownik norweski (nynorsk) dla aspella
+Summary(pl.UTF-8):	Słownik norweski (nynorsk) dla aspella
 Name:		aspell-nn
 Version:	0.50.1
 %define	subv	1
